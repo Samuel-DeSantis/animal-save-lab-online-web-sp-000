@@ -1,4 +1,4 @@
-@media screen only and (max-width:1196px){
+@media screen only and (min-width:1196px){
   #bear {
     left: 800px;
   }
